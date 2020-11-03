@@ -166,10 +166,10 @@ SmartCheck automatically checks Smart Contracts for vulnerabilities and bad prac
 
 
 
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](images/image1.png "image_tooltip")
+
+
 
 
 **Error 1: Using approve function of the ERC-20 token standard : **
@@ -221,10 +221,6 @@ Manticore gave a few warnings at a few places declaration has been of  shadows o
 Remix was able to compile code perfectly and was behaving according to the required property. Attaching the screenshot. 
 
 
-
-
-
-![alt_text](images/image4.png "image_tooltip")
 
 
 There was no error/warning at Remix IDE.
